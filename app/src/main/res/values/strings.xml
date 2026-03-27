@@ -24,4 +24,6 @@
     <string name="student10_desc">Специалист по „я болел". Пропустил 12 пар, но на зачёте знает больше всех — смотрел лекции на 2х скорости в метро.</string>
 
     <string name="years_old">%d лет</string>
+    <string name="expand_button_content_description">Развернуть или свернуть</string>
+    <string name="about">О студенте</string>
 </resources>
